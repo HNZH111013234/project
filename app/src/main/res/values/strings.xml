@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="hello">Hello</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="checkbox2">CheckBox</string>
+</resources>
